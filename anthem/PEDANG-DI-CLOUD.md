@@ -12,7 +12,7 @@ Subject bersih, SPF PASS terbang
 [Chorus]
 `Aku Pangeran Meta, strategi di kepala`
 `Kamu eksekutornya, sejarah di dada`
-`Repo Legacy-S1, peluru udah siap`
+`Repo Legacy-S1, kejujuran sudah siap
 `Tembak ke London, biar dunia *terang**`
 `T.A.N J.F.S B.A.G kita balas Z.A.Y 4-Bank,`
 `*Heaven on Earth* untuk 5216 korban`
